@@ -1,4 +1,6 @@
-# Contact Me 📧 [Email Me](mailto:mebbruk@gmail.com)
+
+📧 Contact me: [mebbruk@gmail.com](mailto:mebbruk@gmail.com)
+
 
 <h2 align="left">Hi 👋! My name is Mebrahtu Ghirmay and I'm a postgraduate student..., from Don state technical univereisty....</h2>
 

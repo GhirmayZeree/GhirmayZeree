@@ -16,24 +16,34 @@ I have a **Master's degree in Mathematics**, which helps me bring an **analytica
 
 ---
 
-## 🔥 Tech Stack  
+## 🌟 Tech Stack  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-HTML5-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/Code-CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript" />
-  <img src="https://img.shields.io/badge/Framework-ReactJS-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Framework-Angular-red?style=for-the-badge&logo=angular" />
-  <img src="https://img.shields.io/badge/Tools-Git-black?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge&logo=github" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  </a>
+  <a href="https://angular.io/">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  </a>
 </p>
 
 📌 **Additional Skills:** Redux, RxJS, Tailwind CSS, Bootstrap, Jest, GraphQL  
 
 ---
 
-## 📈 GitHub Stats  
+## 🎯 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" width="400px" />
@@ -42,19 +52,33 @@ I have a **Master's degree in Mathematics**, which helps me bring an **analytica
 
 ---
 
+## 🎬 Latest Projects  
+
+🌟 **Featured Projects**  
+🚧 *Coming Soon...*  
+
+📌 *Check out my repositories for more!*  
+
+---
+
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourprofile">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" />
+  <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:mebbruk@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:mebbruk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🎉 Fun Fact  
+💡 *Did you know?* *Mathematics and coding have a lot in common—both require logic, structure, and a creative mindset!*  
 
 ---
 

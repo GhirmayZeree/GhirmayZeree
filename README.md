@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Mebrahtu Ghirmay Zeree</h1>
+<h1 align="center">Hi there! 👋 I'm < Your Name ></h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
@@ -51,7 +51,7 @@ I have a **Master's degree in Mathematics**, which helps me bring an **analytica
   <a href="https://twitter.com/yourprofile">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:mebbruk@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
